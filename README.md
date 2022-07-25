@@ -1,5 +1,6 @@
 # do-math
 ##Selamat Datang
+
 Perkenankan saya menceritakan tujuan awal proyek ini.
 
 Semua ini berawal dari keresahan beberapa teman yang diminta oleh pimpinannya untuk mengambil S2 Ekonomi di luar negeri. Berdasarkan pengalaman teman-teman yang S2 Ekonomi dengan _background_ S1 Ekonomi dan yang serumpun, banyak yang hampir _drop out_ dan kesulitan untuk _survive_. Kalau teman-teman cermati, kebanyakan S1 Ekonomi terbatas dalam mengajarkan Matematika di kelas. Bahkan di universitas yang terkemuka saja, paling banter matematika bisnis dan ekonomi sekitar 2 atau 3 SKS. Untungnya sekarang dengan Kurikulum Merdeka, mestinya mereka bisa impor mata kuliah dari S1 Matematika. Tapi tetap saja Matematika belum menjadi bagian yang _mandatory_. Padahal, di Ekonomi, kita sering bertemu dengan kasus yang kadang baru bisa diselesaikan dengan cara matematis. Penyajian secara matematis juga masih menjadi cara yang penting untuk memahami dan mendokumentasikan permasalahan. Jadi intinya, harusnya, Matematika menjadi jantungnya S1 Ekonomi dan S1 lain yang serumpun.
